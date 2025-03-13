@@ -1,5 +1,5 @@
 const routes = [
-  { path: "/", component: "index" },
+  { path: "/", component: "@/pages/home", layout: false },
 ]
 
 export default routes;
